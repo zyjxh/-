@@ -9,7 +9,7 @@ apply,call,bind都是js给函数内置的一些api,调用他们可以为函数�
 ```
 //apply 
 func.apply(thisArg, [argsArray])
-
+ 
 //call
 fun.call(thisArg, arg1, arg2, ...)
 
