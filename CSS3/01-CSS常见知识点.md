@@ -196,6 +196,5 @@
 
 希望有所帮助。
 
-也欢迎阅读本人的[《JS正则迷你书》](https://github.com/qdlaoyao/js-regex-mini-book)。
 
 
